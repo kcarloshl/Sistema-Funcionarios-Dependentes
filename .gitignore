@@ -1,0 +1,30 @@
+# Executaveis do Windows
+*.exe
+*.out
+
+# Arquivos gerados durante a compilacao
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Arquivos temporarios
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Configuracoes locais do VS Code
+.vscode/
+
+# Configuracoes de outros ambientes
+.idea/
+.vs/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
